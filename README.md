@@ -1,12 +1,12 @@
 # Tic Tac Toe Game
 
 ## Description
-Welcome to Tic Tac Toe – a classic game! This Python-based rendition brings the timeless fun of Tic Tac Toe to life on your screen, complete with vibrant graphics and intuitive gameplay. Challenge your strategic prowess against the computer's cunning AI.
+Developed a dynamic Tic Tac Toe game using Python and the Pygame library. This project showcases my proficiency in programming fundamentals, including object-oriented design, event handling, and graphical user interface development.
 
-## Features
-- Player vs Computer gameplay.
-- Basic AI for computer moves.
-- Visual representation using Pygame.
+- Implemented player vs. computer gameplay with basic AI logic for the computer's moves.
+- Utilized Pygame for visual representation, creating an engaging user experience with interactive graphics and smooth animations.
+- Demonstrated problem-solving skills by designing algorithms to determine winning conditions and computer moves.
+- Designed an intuitive user interface, allowing players to interact with the game seamlessly through mouse clicks.
 
 ## Installation
 1. Clone the repository to your local machine:
