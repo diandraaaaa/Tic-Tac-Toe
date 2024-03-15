@@ -9,7 +9,7 @@ Developed a dynamic Tic Tac Toe game using Python and the Pygame library. This p
 - Designed an intuitive user interface, allowing players to interact with the game seamlessly through mouse clicks.
 
 ## Gameplay
-![GIF](https://github.com/diandraaaaa/Tic-Tac-Toe/blob/main/gif2.gif(1))
+![GIF](https://github.com/diandraaaaa/Tic-Tac-Toe/blob/main/gif2(1).gif)
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
